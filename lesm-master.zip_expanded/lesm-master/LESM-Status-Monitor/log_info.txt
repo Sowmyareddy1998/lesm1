@@ -8859,3 +8859,7 @@ org.hibernate.id.IdentifierGenerationException: ids for this class must be manua
 2022-07-08 17:46:05.663  INFO 7704 --- [http-nio-2022-exec-5] l.l.service.impl.UserDetailsServiceImpl  : Enterd into loadUserByUsername method
 2022-07-08 17:46:08.349  INFO 7704 --- [http-nio-2022-exec-6] ls.lesm.restcontroller.AuthController    : Enterd into generateToken method
 2022-07-08 17:46:08.350  INFO 7704 --- [http-nio-2022-exec-6] l.l.service.impl.UserDetailsServiceImpl  : Enterd into loadUserByUsername method
+2022-07-08 18:04:12.027  INFO 7704 --- [RMI TCP Connection(51)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-07-08 18:04:12.089  INFO 7704 --- [RMI TCP Connection(51)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 18:04:12.094  INFO 7704 --- [RMI TCP Connection(51)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-07-08 18:04:12.100  INFO 7704 --- [RMI TCP Connection(51)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
